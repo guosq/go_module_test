@@ -1,3 +1,3 @@
-module go_module_test
+module github.com/guosq/go_module_test
 
 go 1.24.3
